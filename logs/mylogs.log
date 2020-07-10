@@ -1,0 +1,4 @@
+[INFO ] 2020-02-25 09:44:04.212 [main] ElasticApplication - Information message 
+[ERROR] 2020-02-25 09:44:04.228 [main] ElasticApplication - Error message
+[FATAL] 2020-02-25 09:44:04.229 [main] ElasticApplication - Fatal error
+[WARN ] 2020-02-25 09:44:04.229 [main] ElasticApplication - Warning
